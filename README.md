@@ -64,5 +64,11 @@ For example one test could be a SQL statement that checks if certain column cont
 
 # Implementation
 
+## Create tables in Redshift Cluster
+![Redshift Tables](./images/Redshift_Tables.png)
+
 ## Operators Flow
-![Operators Flow](./images/AirFlow_Tree.png)
+![Operators Flow](./images/Operator_Flow.png)
+
+## Airflow Tree
+![Airflow Tree](./images/AirFlow_Tree.png)
